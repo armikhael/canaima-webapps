@@ -34,7 +34,7 @@ install:
 	cp -r desktop/webapps-youtube.desktop $(DESTDIR)/usr/share/applications
 	
 	ln -s /usr/share/canaima-webapps/scripts/webapps-facebook.py $(DESTDIR)/usr/bin/webapps-facebook
-	cp -r scripts/webapps-gmail.sh $(DESTDIR)/usr/bin/
+	ln -s /usr/share/canaima-webapps/scripts/webapps-gmail.py $(DESTDIR)/usr/bin/webapps-gmail
 	ln -s /usr/share/canaima-webapps/scripts/webapps-twitter.py $(DESTDIR)/usr/bin/webapps-twitter
 	ln -s /usr/share/canaima-webapps/scripts/webapps-youtube.py $(DESTDIR)/usr/bin/webapps-youtube
 	
@@ -45,7 +45,7 @@ uninstall:
 	rm -rf $(DESTDIR)/usr/share/applications/webapps-twitter.desktop
 	rm -rf $(DESTDIR)/usr/share/applications/webapps-youtube.desktop
 	rm -rf $(DESTDIR)/usr/bin/webapps-facebook
-	rm -rf $(DESTDIR)/usr/bin/webapps-gmail.sh
+	rm -rf $(DESTDIR)/usr/bin/webapps-gmail
 	rm -rf $(DESTDIR)/usr/bin/webapps-twitter
 	rm -rf $(DESTDIR)/usr/bin/webapps-youtube
 

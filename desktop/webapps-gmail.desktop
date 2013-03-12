@@ -2,7 +2,7 @@
 Version=1.0
 Encoding=UTF-8
 Name=GMail
-Icon=facebook
+Icon=gmail
 Comment= Página de incio: http://mail.google.com
 Exec=webapps-gmail
 Terminal=false

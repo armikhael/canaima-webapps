@@ -2,11 +2,11 @@
 Version=1.0
 Encoding=UTF-8
 Name=Twitter
-Icon=facebook
+Icon=twitter
 Comment=Página de incio: http://www.twitter.com
 Exec=webapps-twitter
 Terminal=false
 Type=Application
 Categories=Network;FileTransfer;
 StartupNotify=False
-Name[es_VE]=webapps-twitter.desktop
+Name[es_VE]=Twitter

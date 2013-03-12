@@ -1,3 +1,9 @@
+canaima-webapps (1.9) UNRELEASED; urgency=low
+
+  * [aa4f603] modificando archivo webapps-gmail
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 12 Mar 2013 17:23:44 -0430
+
 canaima-webapps (1.8) unstable; urgency=low
 
   * [8dd0992] colocando lanzador en /usr/bin

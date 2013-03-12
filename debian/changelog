@@ -1,3 +1,10 @@
+canaima-webapps (1.2) unstable; urgency=low
+
+  * [4a2ddc8] Primera versión de canaima-webapps Canaima-webapps es una aplicación que crea iconos de accesos directos a redes sociales.
+    Facebook, GMail, Twitter y YouTube.
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 12 Mar 2013 16:13:35 -0430
+
 canaima-webapps (1.1) unstable; urgency=low
 
   * [d13fed6] Primera versión de canaima-webapps

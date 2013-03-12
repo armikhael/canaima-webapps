@@ -1,3 +1,9 @@
+canaima-webapps (1.7) UNRELEASED; urgency=low
+
+  * [c4d7e26] nuevos desktop
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 12 Mar 2013 17:01:54 -0430
+
 canaima-webapps (1.6) unstable; urgency=low
 
   * [19f27b6] Primera versión de canaima-webapps

@@ -1,3 +1,9 @@
+canaima-webapps (1.10) UNRELEASED; urgency=low
+
+  * [1b512cb] agregando lanzadores nuevos
+
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 12 Mar 2013 17:35:38 -0430
+
 canaima-webapps (1.9) unstable; urgency=low
 
   * [aa4f603] modificando archivo webapps-gmail

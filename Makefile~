@@ -44,11 +44,6 @@ uninstall:
 	rm -rf $(DESTDIR)/usr/share/applications/webapps-gmail.desktop
 	rm -rf $(DESTDIR)/usr/share/applications/webapps-twitter.desktop
 	rm -rf $(DESTDIR)/usr/share/applications/webapps-youtube.desktop
-	rm -rf $(DESTDIR)/usr/bin/webapps-facebook
-	rm -rf $(DESTDIR)/usr/bin/webapps-gmail
-	rm -rf $(DESTDIR)/usr/bin/webapps-twitter
-	rm -rf $(DESTDIR)/usr/bin/webapps-youtube
-
 clean:
 
 reinstall: uninstall install

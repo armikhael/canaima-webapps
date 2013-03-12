@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=YouTube
+Icon=youtube
+Comment= Página de incio: http://www.youtube.com
+Exec=webapps-youtube
+Terminal=false
+Type=Application
+Categories=Network;FileTransfer;
+StartupNotify=False
+Name[es_VE]=YouTube

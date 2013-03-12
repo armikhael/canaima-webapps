@@ -1,8 +1,8 @@
-canaima-webapps (1.8) UNRELEASED; urgency=low
+canaima-webapps (1.8) unstable; urgency=low
 
   * [8dd0992] colocando lanzador en /usr/bin
 
- -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 12 Mar 2013 17:18:36 -0430
+ -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 12 Mar 2013 17:18:46 -0430
 
 canaima-webapps (1.7) unstable; urgency=low
 
